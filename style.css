@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Main\ Logo.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/dp8.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -295,7 +295,7 @@ h3{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/Logo4.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/dp4.jpeg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -344,7 +344,7 @@ h3{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Logo5.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/dp7.jpeg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -521,5 +521,16 @@ h3{
     text-decoration: none;
     color: #777;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
