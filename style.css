@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/dp8.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Main\ Logo.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -15,16 +15,16 @@
 
 nav{
     display: flex;
-    padding: 2% 4%;
+    padding: 1% 1%;
     justify-content: space-between;
     align-items: center;
 }
 nav img{
-    width: 135px;
+    width: 90px;
 }
 .nav-links{
     flex: 1;
-    text-align: right;
+    text-align: center;
 }
 .nav-links ul li{
     list-style: none;
@@ -35,7 +35,7 @@ nav img{
 .nav-links ul li a{
     color: #fff;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 12px;
 }
 .nav-links ul li::after{
     content: '';
@@ -63,19 +63,18 @@ nav .fa{
     text-align: center;
 }
 .text-box h1{
-    font-size: 62px;
-    color: rgb(0, 0, 0);
+    font-size: 50px;
 }
 .text-box p{
     margin: 20px 0 40px;
-    font-size: 14px;
-    color: rgb(13, 0, 70);
+    font-size: 13px;
+    color: rgb(2, 177, 2);
 }
 .hero-btn {
     display: inline-block;
     text-decoration: none;
-    color: rgb(250, 250, 250);
-    border: 1px solid rgb(2, 2, 2);
+    color: #fff;
+    border: 1px solid #fff;
     padding: 12px 34px;
     font-size: 13px;
     background: transparent;
@@ -104,7 +103,7 @@ nav .fa{
         width: 200px;
         top: 0;
         right: -200px;
-        text-align: left;
+        text-align: center;
         z-index: 2;
         transition: 0.5s;
     }
@@ -127,7 +126,6 @@ nav .fa{
 
 .course{
     width: 80%;
-    background-color: rgb(95, 0, 124);
     margin: auto;
     text-align: center;
     padding-top: 100px;
@@ -224,7 +222,7 @@ h3{
 /*-------------- Facilities ----------------*/
 
 .facility{
-    width: 80%;
+    width: 60%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
@@ -236,7 +234,7 @@ h3{
     text-align: left;
 }
 .facility-col img{
-    width: 100%;
+    width: 75%;
     border-radius: 10px;
 }
 .facility-col p{
@@ -297,7 +295,7 @@ h3{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/dp4.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/Logo4.jpeg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -346,7 +344,7 @@ h3{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/dp7.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Logo5.jpeg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -357,7 +355,6 @@ h3{
 }
 .about-us{
     width: 80%;
-    background-color: aqua;
     margin: auto;
     padding-top: 80px;
     padding-bottom: 50px;
@@ -524,16 +521,5 @@ h3{
     text-decoration: none;
     color: #777;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
